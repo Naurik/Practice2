@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\Practice2\Practice2\bin\Debug\Practice2.exe.config
+c:\users\acer-pc\source\repos\Practice2\Practice2\bin\Debug\Practice2.exe
+c:\users\acer-pc\source\repos\Practice2\Practice2\bin\Debug\Practice2.pdb
+c:\users\acer-pc\source\repos\Practice2\Practice2\obj\Debug\Practice2.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\Practice2\Practice2\obj\Debug\Practice2.exe
+c:\users\acer-pc\source\repos\Practice2\Practice2\obj\Debug\Practice2.pdb
